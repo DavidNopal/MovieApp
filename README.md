@@ -1,6 +1,8 @@
 <h1>Movie App summary and ScreenShots</h1>
 <br>
-<p>The app uses the ViewModel to store the movie data. The data is stored and used across the app for areas like the watchlist and showing descriptions of the movies. State is used manage the adition and removal of movies from the wachlist. This helps update the list right away. Navigation is used to travel to the 3 different screen: Home, Details, and Watchlist.</p>
+<h2>Name: Jesus David Nodal   CWID: 846559284</h2>
+<br>
+<p>The app uses the ViewModel to store the movie data. The data is stored and used across the app for areas like the watchlist and showing descriptions of the movies. State is used to manage the addition and removal of movies from the watchlist. This helps update the list right away. Navigation is used to travel to the 3 different screens: Home, Details, and Watchlist.</p>
 
 <img width="555" height="776" alt="Screenshot 2025-10-20 234541" src="https://github.com/user-attachments/assets/cabb8d1d-1494-4d13-a84c-9d8e91147091" />
 <br>
